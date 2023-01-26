@@ -1,0 +1,17 @@
+13:40 fire start, standing close to it, only gasoline burning
+13:50 close to it (1 meter), value at over 100
+13:56 10 meters distance
+13:59 fire is made bigger
+wood burns
+14:13 fire smokes, distance 3-4 m (directly at smoke value of 100 not at smoke 70-75)
+14:18 1m distance
+14:19 1m distance (values from 120-130)
+14:22 20m distance
+14:23 3m distance
+14:24 1m
+14:25 5m
+14:27 1m
+14:28 10 m
+14:35-14:36 10 m
+14:39 2 m
+14:45 extinguishing action
