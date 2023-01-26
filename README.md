@@ -1,6 +1,6 @@
 For more detailed information about this project visit our website: https://innovationlab-fire.netlify.app
 
-**User Manual:**
+**Installation guide:**
 
 1) To reconstruct the prototype, you need the materials listed in the following:
 
